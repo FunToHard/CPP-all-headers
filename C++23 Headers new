@@ -1,0 +1,23 @@
+## ✅ C++23 Headers
+
+* `<expected>`
+* `<mdspan>`
+* `<print>`
+* `<spanstream>`
+* `<stacktrace>`
+
+---
+
+## ✅ C++26 Headers
+
+* `<debugging>`
+* `<flat_map>`
+* `<flat_set>`
+* `<generator>`
+* `<hazard_pointer>`
+* `<linalg>`
+* `<rcu>`
+* `<text_encoding>`
+* `<tuple>` *(enhanced with new tuple protocols)*
+
+---
